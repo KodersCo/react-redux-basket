@@ -2,7 +2,7 @@
 
 This simple example demonstrates the usage of React and Redux for a list of items. Application uses React for frontend, Redux for state management and Styled Components for styling.
 
-![app demo](https://github.com/eaorak/react-redux-basket/public/basket.gif "Demo")
+![app demo](https://github.com/KodersCo/react-redux-basket/blob/master/public/basket.gif "Demo")
 
 ---
 
